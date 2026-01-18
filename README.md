@@ -225,7 +225,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Seu Nome**
 - GitHub: ChrystianMyke(https://github.com/ChrystianMyke)
-- LinkedIn: Chrystian Myke (https://linkedin.com/in/seu-perfil)
+- LinkedIn: Chrystian Myke (https://www.linkedin.com/in/chrystian-myke-388b69282)
 - Email: miaymoto13k@gmail.com
 
 ## 🙏 Agradecimentos
